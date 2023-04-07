@@ -1,7 +1,7 @@
 # recaptcha_sample
 DjangoのフォームにreCAPTCHA V3を簡単に設定する方法のサンプルコード
 
-# Cloneして動作確認する場合
+## Cloneして動作確認する場合
 
 Cloneして動作確認する場合は、下記の手順でSECRET_KEYとリキャプチャーキーを設定してください。
 
